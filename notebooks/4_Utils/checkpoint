@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/chengming/TensorFlow-Examples/notebooks/4_Utils/model.ckpt"
+all_model_checkpoint_paths: "/home/chengming/TensorFlow-Examples/notebooks/4_Utils/model.ckpt"
